@@ -27,4 +27,7 @@ Para executar o jogo Flappy Bird IA, siga as instruções abaixo:
     ```bash
     http://localhost:3000/flappy-bird
     ```
-   
+
+# Preview
+<img alt="preview" src="https://user-images.githubusercontent.com/56095974/223729464-797e3ae5-f0ed-4570-9cb5-b2efa6192d3e.gif?" width="512">
+
