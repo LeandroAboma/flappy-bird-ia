@@ -1,0 +1,47 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #882020;
+}
+
+.botao-start {
+    color: white;
+    background-color: orangered;
+    width: 100px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.botao-start:active {
+    background-color: #862501;
+}
+
+.botao-automatico {
+    color: white;
+    background-color: orangered;
+    width: 100px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.botao-automatico:active {
+    background-color: #862501;
+}
+
+.botao-automatico--ativo {
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.botao-automatico--ativo:active {
+    background-color: #002c00;
+}
