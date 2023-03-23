@@ -29,5 +29,5 @@ Para executar o jogo Flappy Bird IA, siga as instruções abaixo:
     ```
 
 # Preview
-<img alt="preview" src="https://user-images.githubusercontent.com/56095974/223729464-797e3ae5-f0ed-4570-9cb5-b2efa6192d3e.gif?" width="512">
+<img alt="preview" src="https://user-images.githubusercontent.com/56095974/227356958-b4982adb-bff2-4e69-a41d-7a75d39f55db.png" width="512">
 
